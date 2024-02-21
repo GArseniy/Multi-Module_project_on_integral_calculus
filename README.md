@@ -1,1 +1,1 @@
-# Multi-Module_project_on_integral_calculus
+# 2023 MSU: Multi-Module project on integral calculus (using C and ASM)
